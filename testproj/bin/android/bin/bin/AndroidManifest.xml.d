@@ -1,0 +1,3 @@
+C:\Users\ipsilon1\dropbox-ipsilondev\Dropbox\02-WD-SF-RetailShopMarketing\testproj\testproj\bin\android\bin\bin\AndroidManifest.xml : \
+C:\Users\ipsilon1\dropbox-ipsilondev\Dropbox\02-WD-SF-RetailShopMarketing\testproj\testproj\bin\android\bin\AndroidManifest.xml \
+C:\Users\ipsilon1\dropbox-ipsilondev\Dropbox\02-WD-SF-RetailShopMarketing\testproj\testproj\bin\android\bin\deps\extension-api\AndroidManifest.xml \
